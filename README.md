@@ -1,3 +1,2 @@
-# mikehong
-initial development
-changed
+myApp
+This ia my app
